@@ -4,3 +4,4 @@ print(t.index(88))
 print(t.count('3'))
 (a,b)=t
 print(a,b)
+print("Bhayo")
