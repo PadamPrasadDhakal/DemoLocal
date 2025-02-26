@@ -1,0 +1,1 @@
+print("YO sabai ko ho hai ta")
