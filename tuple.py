@@ -5,3 +5,4 @@ print(t.count('3'))
 (a,b)=t
 print(a,b)
 print("Bhayo")
+print("Danger bey")
